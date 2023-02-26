@@ -1,0 +1,4 @@
+
+Libreria Frontend: Bootstrap 4.1
+Libreria JavaScript: Bootstrap 5.0
+Iconos: Font Awesome icons 
